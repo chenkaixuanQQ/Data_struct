@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\u5B66\u4E60\\C\u8BED\u8A00\u9879\u76EE\\Data_struct\\2024_5_15_OJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36A6137-2DAB-4EDE-9EFA-9AFA60EC47B7}|2024_5_15_OJ\\2024_5_15_OJ.vcxproj|D:\\\u8BA1\u7B97\u673A\u5B66\u4E60\\C\u8BED\u8A00\u9879\u76EE\\Data_struct\\2024_5_15_OJ\\2024_5_15_OJ\\OJ.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F36A6137-2DAB-4EDE-9EFA-9AFA60EC47B7}|2024_5_15_OJ\\2024_5_15_OJ.vcxproj|solutionrelative:2024_5_15_OJ\\OJ.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OJ.c",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\u5B66\u4E60\\C\u8BED\u8A00\u9879\u76EE\\Data_struct\\2024_5_15_OJ\\2024_5_15_OJ\\OJ.c",
+              "RelativeDocumentMoniker": "2024_5_15_OJ\\OJ.c",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\u5B66\u4E60\\C\u8BED\u8A00\u9879\u76EE\\Data_struct\\2024_5_15_OJ\\2024_5_15_OJ\\OJ.c",
+              "RelativeToolTip": "2024_5_15_OJ\\OJ.c",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-15T14:51:27.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
